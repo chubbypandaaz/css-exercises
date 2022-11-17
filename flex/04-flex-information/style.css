@@ -32,7 +32,6 @@ img {
   justify-content: center;
   padding: 32px;
   gap: 52px;
-  width: 956px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -44,4 +43,11 @@ img {
 .pic {
   display: flex;
   justify-content: center;
+}
+
+.first,
+.second,
+.third,
+.last {
+  width: 200px;
 }
